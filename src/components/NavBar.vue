@@ -1,5 +1,5 @@
 <template>
-<v-app-bar color = "green"
+<v-app-bar color = "green">
 <v-app-bar-title>Jitegemee University</v-app-bar-title>
     <v-btn to="/" color="indigo"> Home</v-btn>
     <v-btn to="/courses" color="indigo"> Courses</v-btn>
