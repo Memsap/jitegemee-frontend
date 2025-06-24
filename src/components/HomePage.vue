@@ -82,7 +82,7 @@ From sleek interfaces to powerful user experiences, our creative team crafts dig
 <v-container>
 <v-row>
      <v-col cols="12" md="2">
-      <v-img src ="../../public/images/SAF-MAIN-LOGO-400x280.png"></v-img>
+      c:\Users\Admin\Downloads\dmitry-spravko-t0Ddsj0WY4o-unsplash.jpg c:\Users\Admin\Downloads\louis-galvez-I8gQVrDcXzY-unsplash.jpg c:\Users\Admin\Downloads\matthew-ball-rYteFvqUGVw-unsplash.jpg c:\Users\Admin\Downloads\sewupari-studio-TsJR6I2TDZc-unsplash.jpg c:\Users\Admin\Downloads\mathias-reding-yfXhqAW5X0c-unsplash.jpg c:\Users\Admin\Downloads\sable-flow-T74mVg__F_k-unsplash.jpg
   
      </v-col>
 
